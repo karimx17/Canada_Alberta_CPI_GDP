@@ -2,6 +2,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.express as px
 
+# IF YOU ARE A RECRUITER AND ARE NOT FAMILIAR WITH PYTHON, SHOW THIS TO A SOFTWARE DEVELOPER AND THEY CAN RUN IT
+
+
                                     #------------------- CPI -------------------#
 # READ FILE
 data = pd.read_csv("consumer_price_index_csv_2022-01-20 (1).csv")
